@@ -1,0 +1,182 @@
+.userEL5516702 {
+  padding: 90px 0px 90px 0px;
+  background-color: #ffffff;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  font-family: "Libre Baskerville", "Nanum Gothic";
+  font-size: 14px;
+ }
+ .userEL5516702 h2.head_title {
+  font-size: inherit;
+  font-family: 'OpenSans', 'Noto sans kr';
+  color: #ef5455;
+  margin: 0 0 19px 0;
+ }
+ .userEL5516702 .subtitle {
+  font-family: 'OpenSans', 'Noto sans kr';
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 30px;
+ }
+ .userEL5516702 .left {
+  font-family: 'OpenSans', 'Noto sans kr';
+  color: #000;
+ }
+ .userEL5516702 .left p.email-mgbt {
+  margin-bottom: 25px;
+ }
+ .userEL5516702 .title-text {
+  font-family: 'OpenSans', 'Noto sans kr';
+  color: #ef5455;
+  margin-top: 25px;
+ }
+ .userEL5516702 .left img {
+  margin-top: 100px;
+  margin-bottom: 15px;
+ }
+
+ .userEL5516702 .form-inline .form-group {
+  margin-bottom: 15px;
+  width: 100%;
+ }
+ .userEL5516702 h3 {
+  font-family: 'Open Sans', 'Noto sans kr';
+  font-size: 13px;
+  font-weight: normal;
+  color: #525252;
+  letter-spacing: -0.2px;
+  margin-top: 10px;
+ }
+ .userEL5516702 .text {
+  font-family: 'Open Sans', 'Noto sans kr';
+  font-size: 12px;
+  margin-bottom: 10px 0;
+  color: #999;
+  font-weight: 300;
+ }
+ .userEL5516702 .form-control {
+  width: 100%;
+  height: 40px;
+  font-family: 'Open Sans', 'Noto sans kr';
+  color: #777;
+  border: 1px solid #e5e5e5;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #fff;
+  padding: 4px 12px;
+  box-shadow: none;
+  -webkit-shadow: none;
+  -webkit-appearance: none;
+ }
+ .userEL5516702 .form-control:focus {
+  border-color: #9575f4;
+ }
+ .userEL5516702 .form-checkbox-text {
+  font-size: 12px;
+  font-weight: normal;
+  margin-top: 5px;
+ }
+ .userEL5516702 .form-checkbox {
+  position: relative;
+  top: 3px;
+ }
+ .userEL5516702 .form-group .checkbox-inline,
+ .userEL5516702 .form-group .radio-inline {
+  font-family: 'Roboto', 'Noto sans kr';
+  font-size: 12px;
+  color: #777;
+ }
+ .userEL5516702 .radio-inline+.radio-inline, .userEL5516702 .checkbox-inline+.checkbox-inline {
+  margin-left: 0;
+ }
+ .userEL5516702 .form-group .checkbox-inline, .userEL5516702 .form-group .radio-inline {
+  padding-right: 20px;
+ }
+ .userEL5516702 .form-group .date-divider {
+  font-family: 'Roboto';
+  color: #666;
+ }
+ .userEL5516702 select.form-control {
+  background: #fff url('../../images/checkIcon.png') no-repeat center right !important;
+  -webkit-appearance: none;
+}
+ .userEL5516702 select::-ms-expand {
+  display: none;
+ }
+ .userEL5516702 .form-inline .form-group.last {
+  margin-bottom: 0;
+ }
+ .userEL5516702 .form-submit-wrap {
+  overflow: hidden;
+  width: 100%;
+ }
+ .userEL5516702 .btn {
+  font-family: 'Lora', 'Nanum Gothic';
+  color: #fff;
+  background-color: #000000;
+  float: right;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
+  border-radius: 0;
+  padding: 15px 70px;
+  max-width: 100%;
+  overflow: hidden;
+ }
+ .userEL5516702 .form-inline textarea {
+  width: 100%;
+  height: 155px;
+  padding: 12px;
+  font-size: 13px;
+ }
+ .userEL5516702 :-webkit-input-placeholder {
+  color: #949fab;
+ }
+ .userEL5516702 input:-moz-placeholder {
+  color: #949fab;
+ }
+ @media only screen and (max-width: 1199px) {
+  .userEL5516702 .form-group h3 {
+   font-size: 13px;
+  }
+ }
+ @media only screen and (max-width: 1024px) {
+  .userEL5516702 .form-group h3 {
+   font-size: 13px;
+  }
+ }
+ @media only screen and (max-width: 767px) {
+  .userEL5516702 .form-group h3 {
+   font-size: 13px;
+  }
+ }
+ @media  only screen and (max-width: 480px) {
+  .userEL5516702 .wrap {
+   padding: 30px 20px;
+  }
+  .userEL5516702 .tit {
+   margin: 0 0 28px;
+  }
+  .userEL5516702 h4 {
+   margin: 0 0 28px 0;
+  }
+  .userEL5516702 .form-inline .form-group {
+   margin-bottom: 23px;
+  }
+  .userEL5516702 .form-group h3 {
+   font-size: 12px;
+  }
+  .userEL5516702 .btn {
+   font-size: 12px;
+   margin: 6px 0 0px;
+  }
+ }
+ .userEL5516702 p.text {
+  color: #383838;
+ }
